@@ -50,6 +50,7 @@ We recommend to submit each of the following possible fixes in a separate Pull R
 - `Javascript` => `JavaScript`
 - `OSX`, `OS X`, `MacOS` => `macOS`
 - `XCode` => `Xcode`
+- `Wordpress`, `wordpress`, `word press` => `WordPress` (capital P, always)
 
 ### Yes, but how?
 
